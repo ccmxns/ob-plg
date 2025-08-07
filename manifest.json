@@ -1,0 +1,10 @@
+{
+  "id": "demo-plugin",
+  "name": "Demo Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "一个简单的demo插件，启动时显示通知消息",
+  "author": "Demo Developer",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
